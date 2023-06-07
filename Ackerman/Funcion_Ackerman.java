@@ -31,7 +31,7 @@ public class Funcion_Ackerman {
         m = leer.nextInt();
         System.out.println("Ingrese el Segundo valor");
         n = leer.nextInt();
-        System.out.println("El valor de Ackerman es: " + Ackerman(m, n));
+        System.out.println("El valor  es: " + Ackerman(m, n));
     }
 }
 
